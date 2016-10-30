@@ -1,7 +1,7 @@
 **ANATOMI HACKING**
 
 <p align="center">
-  <img src="../../img/cvr.JPG" width="400px">
+  <img src="../../img/cvr3.JPG" width="400px">
 </p>
 
 1. LATAR BELAKANG MASALAH
