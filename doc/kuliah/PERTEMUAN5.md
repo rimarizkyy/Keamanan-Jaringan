@@ -37,7 +37,7 @@ Sementara untuk jenis spoofing ini dengan cara ketika target meminta request ala
 
 - --Cara Menghindari Spoofing
 
-- Tidak menerima table dari siapapun
+-Tidak menerima table dari siapapun
 
 -Membuat table sintetis yang tidak bisa diubah atau diupdate
 
